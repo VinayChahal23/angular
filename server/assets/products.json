@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Boots",
+        "imgPath": "product_01.jpg",
+        "altTxt": "burger meal",
+        "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+        "price": "23.8",
+        "reviews": {
+            "count": "25"
+        }
+    },
+    {
+        "title": "Jacket",
+        "imgPath": "product_02.jpg",
+        "altTxt": "burger meal",
+        "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+        "price": "24.8",
+        "reviews": {
+            "count": "200"
+        }
+    },
+    {
+        "title": "Muffler",
+        "imgPath": "product_03.jpg",
+        "altTxt": "burger meal",
+        "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+        "price": "33.4",
+        "reviews": {
+            "count": "27"
+        }
+    },
+    {
+        "title": "Blue Muffler",
+        "imgPath": "product_04.jpg",
+        "altTxt": "burger meal",
+        "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+        "price": "19.6",
+        "reviews": {
+            "count": "93"
+        }
+    },
+    {
+        "title": "Sweater",
+        "imgPath": "product_05.jpg",
+        "altTxt": "burger meal",
+        "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+        "price": "25.6",
+        "reviews": {
+            "count": "54"
+        }
+    }
+
+]
